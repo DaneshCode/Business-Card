@@ -35,7 +35,7 @@ Contributions, issues, and feature requests are welcome!
 
 You can view the live demo of the calculator by clicking the link below:
 
-<a href="https://daneshcode.github.io/business-card/" target="_blank">🔗 Open the business card</a>
+<a href="https://daneshcode.github.io/Business-Card/" target="_blank">🔗 Open the business card</a>
 
 ## 🖨️ Printing Instructions
 
